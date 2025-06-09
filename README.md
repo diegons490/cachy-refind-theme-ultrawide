@@ -1,4 +1,4 @@
-# CachyOS rEFInd Theme
+# CachyOS rEFInd Theme in 3440x1440 resolution for ultrawide monitors.
 ###### AUTHOR: diegons490
 
 ##### After downloading the files, open the terminal in the folder where they are and run the commands to install or uninstall the theme.
